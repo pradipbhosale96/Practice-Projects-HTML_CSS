@@ -72,7 +72,7 @@ nav li:hover{
     align-items: center;
 }
 .hero_image img{
-    border-radius: 50%;
+    border-radius: 45%;
 }
 .hero_content{
     display: grid;
@@ -91,7 +91,7 @@ nav li:hover{
 
 }
 .name_text {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   
   #hero h2 {
